@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Sejal Yogesh Ahir- Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color:f8f8f8;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #373;
+        }
+        h2 {
+            color: #444;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style: style;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sejal Yogesh Ahir</h1>
+            <p>MBA student</p>
+        </header>
+
+        <section>
+       
+            <h2>About Me</h2>
+            <p>I am a MBA student with a passion for creating user-friendly and visually appealing websites.</p>
+        </section>
+
+        <section>
+            <h2>Experience</h2> 
+            <ul>
+                <li> Fresher 
+                    
+              
+        
+            </ul>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <ul> <li>10 - 88.5%
+                <li> 12 - 89.5%
+                    <strong> <li>Bachelor of Business Administration  - 8.9CGPA</strong>
+                    <p>Pune University - 2020 to 2023</p>
+             <strong>  </li>Masters in business Administration - pursuing 
+            </ul>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>MS - EXCEL</li>
+                <li>JavaScript</li>
+                <!-- Add more skills here -->
+            </ul>
+        </section>
+    </div>
+</body> <style>
+</html>
